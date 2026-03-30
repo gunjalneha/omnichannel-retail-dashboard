@@ -15,3 +15,11 @@ SELECT date, SUM(revenue)
 FROM cleaned_data
 GROUP BY date
 ORDER BY date;
+-- Average Revenue
+SELECT AVG(revenue) AS avg_revenue FROM cleaned_data;
+-- Best Performing Category
+SELECT category, SUM(revenue) AS total_sales
+FROM cleaned_data
+GROUP BY category
+ORDER BY total_sales DESC
+LIMIT 1;
