@@ -1,5 +1,7 @@
 -- Total Revenue
 SELECT SUM(revenue) AS total_revenue FROM cleaned_data;
+-- Total Quantity Sold
+SELECT SUM(quantity) AS total_quantity FROM cleaned_data;
 -- sales by catagory
 SELECT category, SUM(revenue) 
 FROM cleaned_data
