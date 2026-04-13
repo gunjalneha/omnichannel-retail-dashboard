@@ -28,7 +28,7 @@ Imported cleaned dataset into MySQL Workbench
 Created and updated revenue column
 Performed SQL queries for analysis:
 -Total Revenue
-=Total Quantity Sold
+-Total Quantity Sold
 -Sales by Category
 -Top Selling Products
 -Sales Trends
@@ -58,8 +58,6 @@ Business Recommendations:
 -Improve performance of low-selling categories
 
 Dashboard Preview
-
-
 
 
 Conclusion
