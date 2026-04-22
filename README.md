@@ -58,7 +58,7 @@ Business Recommendations:
 -Improve performance of low-selling categories
 
 Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](ProjectDashboard.png)
 
 Conclusion
 
